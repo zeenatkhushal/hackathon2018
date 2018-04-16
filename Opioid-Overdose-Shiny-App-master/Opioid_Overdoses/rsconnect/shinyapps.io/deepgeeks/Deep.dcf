@@ -1,0 +1,12 @@
+name: Deep
+title: Deep
+username:
+account: deepgeeks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 323245
+bundleId: 1320061
+url: https://deepgeeks.shinyapps.io/Deep/
+when: 1523837908.11642
+asMultiple: FALSE
+asStatic: FALSE
